@@ -1,12 +1,13 @@
-### 👨‍💻 Обо мне
-Я — **начинающий разработчик**.
+### Обо мне
+Я — **начинающий backend разработчик**.
 
-- 🌱 Изучаю C#, Kotlin, Docker.
-- 📫 Как со мной связаться: glebcool99@gmail.com
+- Изучаю C#, Kotlin, Docker.
+- Имею опыт работы с C++ Entity Framework 
+- Как со мной связаться: glebcool99@gmail.com
 
 ---
 
-### 🛠 Мой стек технологий
+### Мой стек технологий
 
 | Категория | Инструменты и языки |
 | :--- | :--- |
@@ -15,11 +16,11 @@
 | **DevOps & Tools** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
 | **Frontend** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |
 
-### 📊 Моя статистика GitHub
+### Статистика GitHub
 
 <p align="left">
   <img title="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Cinnamura&theme=synthwave" />
 </p>
 
-### 📫 Соцсети
+### Соцсети
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/GlebGCool)
